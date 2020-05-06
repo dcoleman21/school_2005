@@ -20,7 +20,7 @@ class School
   end
 
   def end_time
-    @hours + @start_time
+    @hours + @start_time 
   end
 
 
